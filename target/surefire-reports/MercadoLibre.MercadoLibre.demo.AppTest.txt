@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: MercadoLibre.MercadoLibre.demo.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.204 s - in MercadoLibre.MercadoLibre.demo.AppTest
